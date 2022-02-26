@@ -1,0 +1,10 @@
+#presentation {
+	width: 100%;
+}
+
+#presentation td {
+	width: 33%;
+	vertical-align: text-top;
+	padding:6px;
+	font-size: 15px;
+}
